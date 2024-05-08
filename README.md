@@ -72,45 +72,31 @@ accuracy
 
 ## Output:
 
-data.head()
+Head:
 
 
 
-![image](https://user-images.githubusercontent.com/94911373/173280215-ab07ba14-be28-488e-adf6-2afd781193d9.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/94911373/173280239-d1f0e4b6-1f91-4baa-8e47-3199d5a11a34.png)
-
-
-data.info()
-
-
-![image](https://user-images.githubusercontent.com/94911373/173280266-5bf3afb7-922c-4210-9445-ffa05163682a.png)
-
-
-Data.isnull().sum()
-
-
-
-![image](https://user-images.githubusercontent.com/94911373/173280381-0a7766da-c1ae-412b-a7f4-93676dfcce6b.png)
+![image](https://github.com/KathirvelAIDS/Implementation-of-SVM-For-Spam-Mail-Detection/assets/94911373/9e3bcb0e-5dfc-44d0-b64b-21cbed70368c)
 
 
 
 
-y_pred
 
 
-![image](https://user-images.githubusercontent.com/94911373/173280434-f428cbf1-2680-417f-aa72-b4a1fb961475.png)
+Kernel Model:
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-SVM-For-Spam-Mail-Detection/assets/94911373/8a2e1e18-321f-476f-95d8-3942c9c123ef)
 
 
 
 
-accuracy
+
+Accuracy and Classification report:
 
 
-![image](https://user-images.githubusercontent.com/94911373/173280531-5507a95f-acfa-44a7-8b37-020e69726b2c.png)
+![image](https://github.com/KathirvelAIDS/Implementation-of-SVM-For-Spam-Mail-Detection/assets/94911373/8debc649-2508-4992-9cb3-bc368e8682e4)
+
 
 
 
